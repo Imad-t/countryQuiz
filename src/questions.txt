@@ -1,9 +1,10 @@
--which country is -- the capital of?
+- in which country is -- the capital?
 -which country's flag is --?
 -what is the capital of --?
 -what is the currency of --?
 -what is the official language in --?
 -how much is the population of --?
--what is the most populated country in -continent-?
--what is the biggest country in -continent-?
 -in which continent is --?
+-of the following countries, which one has the largest area?  -- -- -- --
+-in which of the following counries is -- the official language?
+-which one of the following countries is in --?
